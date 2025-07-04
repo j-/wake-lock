@@ -1,0 +1,4 @@
+body.dragenter {
+  background-color: red !important;
+  pointer-events: none;
+}
